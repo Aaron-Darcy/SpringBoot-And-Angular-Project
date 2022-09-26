@@ -11,9 +11,9 @@ Technologies
   * Ecplise (IDE)
   
 ## Install Dependencies
-* Project
-* Download github project
-* (git clone)
+* Download Eclipse IDE 
+* (git clone) https://github.com/Aaron-Darcy/SpringBoot-And-Angular-Project
+* Download Springboot Extension via Eclipse
 
 ## How to run App?
 * Run server Side App
