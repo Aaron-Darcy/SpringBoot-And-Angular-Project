@@ -1,5 +1,4 @@
 # SpringBoot And Angular Project
-## How To Run This Programme
 
 # What this Repository contains:
 
